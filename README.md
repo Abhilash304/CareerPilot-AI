@@ -151,7 +151,7 @@ python run.py
 
 GitHub: https://github.com/Abhilash304
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn: www.linkedin.com/in/abhilashbhandari7019
 
 ---
 
