@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
+PyMuPDF
+python-docx
+spacy
+RapidFuzz
+google-generativeai
+python-dotenv
